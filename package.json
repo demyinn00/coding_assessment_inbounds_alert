@@ -1,0 +1,27 @@
+{
+  "name": "coding_assessment_inbounds_alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alert_service.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demyinn00/coding_assessment_inbounds_alert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demyinn00/coding_assessment_inbounds_alert/issues"
+  },
+  "homepage": "https://github.com/demyinn00/coding_assessment_inbounds_alert#readme",
+  "dependencies": {
+    "@turf/boolean-point-in-polygon": "^6.5.0",
+    "@turf/turf": "^6.5.0",
+    "d3-geo": "^3.0.1",
+    "d3-polygon": "^3.0.1",
+    "node-fetch": "^3.2.10"
+  }
+}
